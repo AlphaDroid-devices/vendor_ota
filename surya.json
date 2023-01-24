@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Carlos Arriaga (TheStrechh)",
+			"oem": "",
+			"device": "Poco X3 NFC",
+			"filename": "AlphaDroid-13.0-20230124-surya-gapps.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/surya/AlphaDroid-13.0-20230124-surya-gapps.zip/download",
+			"timestamp": 1674584717,
+			"md5": "2e1a1da3cf04b1f9346c8f901f519a71",
+			"sha256": "64331e87e8d716a9b6bfe860c0e2bb491d4561baa896f820b0fd5281f01591e8",
+			"size": 1694147012,
+			"version": "gapps.zip",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
